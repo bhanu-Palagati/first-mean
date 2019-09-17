@@ -1,4 +1,4 @@
-#ABOUT
+# ABOUT
 This project is a complete mean stack implementation where everything is locally setup. In case if anyone struck with something in the basic level they can use this as a point of reference to get it done
 
 # Mean
