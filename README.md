@@ -1,3 +1,6 @@
+#ABOUT
+This project is a complete mean stack implementation where everything is locally setup. In case if anyone struck with something in the basic level they can use this as a point of reference to get it done
+
 # Mean
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.5.
